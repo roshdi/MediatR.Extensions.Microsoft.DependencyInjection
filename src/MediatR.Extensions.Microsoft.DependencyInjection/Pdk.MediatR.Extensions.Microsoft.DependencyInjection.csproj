@@ -33,7 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\MediatR\src\MediatR\Bdk.MediatR.csproj" />
+    <ProjectReference Include="..\..\..\MediatR\src\MediatR\Pdk.MediatR.csproj" />
   </ItemGroup>
 
 </Project>
